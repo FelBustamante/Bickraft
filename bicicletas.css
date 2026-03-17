@@ -20,6 +20,10 @@ h3 {
   font-family: poppins, sans-serif;
 }
 
+.container span {
+  margin: 0px;
+}
+
 .container h2 span {
   color: var(--p1);
 }
