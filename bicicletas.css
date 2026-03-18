@@ -111,6 +111,7 @@ h3 {
   .container h2 {
     font-size: 20px;
     margin-bottom: 20px;
+    padding: 10px;
   }
 
   .bicicletas h3 .preco {
