@@ -33,9 +33,14 @@ h3 {
   gap: 20px;
 }
 
+.bicicletas-items span {
+  margin-left: 20px;
+}
+
 .bicicletas-items {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   padding: 10px;
+  margin-bottom: 30px;
 }
 
 .bicicletas-items:hover {
@@ -75,6 +80,7 @@ h3 {
 @media (max-width: 800px) {
   .container h2 {
     font-size: 24px;
+    margin-left: 0px;
   }
   
   .bicicletas {
