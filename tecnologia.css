@@ -113,25 +113,28 @@
 @media (max-width: 450px) {
   .tecnologia-conteudo > span {
     font-size: 20px;
-    padding: 0px;
+    padding: 2px;
   }
   .tecnologia-conteudo h2 {
     font-size: 40px;
-    padding: 20px;
+    padding: 40px;
   }
 
   .tecnologia-conteudo p {
-    padding: 20px;
+    padding: 40px;
   }
   .tecnologia-conteudo a {
-    padding: 20px;
+    padding: 40px;
     font-size: 20px;
+  }
+  .tecnologia-imagem {
+    display: none;
   }
   .tecnologia-vantagens {
     flex-direction: column;
-    padding: 20px;
+    padding: 40px;
   }
   .tecnologia-vantagens p {
-    padding: 0px;
+    padding: 2px;
   }
 }
