@@ -164,6 +164,9 @@ img {
       padding: 10px;
       margin-left: 10px;
     }
+    .header-menu {
+      gap: 0px;
+    }
     .header-menu a {
       margin-left: 20px;
     }
