@@ -2,6 +2,7 @@
 @import url('bicicletas.css');
 @import url('tecnologia.css');
 @import url('parceiros.css');
+@import url('depoimentos.css');
 
 body {
   margin: 0px;
@@ -169,6 +170,7 @@ img {
     }
     .header-menu a {
       margin-left: 20px;
+      margin-bottom: 10px;
     }
     .introducao-bg {
       background: var(--c11);
