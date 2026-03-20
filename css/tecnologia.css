@@ -8,7 +8,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
-  padding: 20px;
+  padding: 40px;
 }
 
 .tecnologia-imagem img {
@@ -112,6 +112,9 @@
 }
 
 @media (max-width: 600px) {
+  .tecnologia {
+    padding: 20px;
+  }
   .tecnologia-conteudo > span {
     font-size: 20px;
     padding: 2px;

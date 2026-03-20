@@ -115,4 +115,10 @@ h3 {
   .bicicletas h3 .preco {
     font-size: 10px;
   }
+  .bicicletas-items {
+    padding-left: 0px;
+  }
+  .bicicletas-items img {
+    max-width: 200px;
+  }
 }
