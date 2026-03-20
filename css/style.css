@@ -176,13 +176,7 @@ img {
 
  @media (max-width: 600px) {
   .header a {
-    padding-left: 20px;
-  }
-  .header-menu li {
-    margin-left: 20px;
-  }
-  .introducao {
-    margin-left: 20px;
+    padding-left: 10px;
   }
   .introducao a {
     padding: 12px 16px;
