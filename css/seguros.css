@@ -128,12 +128,13 @@
     margin-left: 40px;
   }
   .seguros-prata {
-    height: 440px;
+    height: 450px;
     padding: 10px 40px;
+    
   }
 
   .seguros-ouro {
     margin-top: 20px;
-    height: 550px;
+    height: 570px;
   }
 }
