@@ -1,6 +1,9 @@
-.depoimentos-bg {
-  margin-bottom: 100px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
 .depoimentos {
   max-width: 1600px;
   display: grid;
@@ -29,9 +32,8 @@
 .depoimentos-texto h3 {
   font-family: poppins, sans-serif;
   font-size: 32px;
-  padding: 80px;
   text-align: center;
-  margin: auto;
+  padding: 80px;
   line-height: 1.225;
   color: var(--p5);
 }
