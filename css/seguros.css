@@ -26,7 +26,7 @@
   background-color: var(--c12);
   display: flex;
   padding: 10px 60px;
-  margin-top: 60px;
+  margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 6px;
@@ -125,10 +125,11 @@
 @media (max-width: 600px) {
   .seguros-bg h2 {
     font-size: 40px;
+    margin-top: 20px;
     margin-left: 40px;
   }
   .seguros-prata {
-    height: 400px;
+    height: 420px;
     padding: 10px 40px;
   }
 
