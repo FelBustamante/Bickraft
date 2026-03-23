@@ -71,7 +71,7 @@ img {
 }
 
 .header-menu a:hover {
-  border-bottom: 2px solid var(--c0);
+  border-bottom: 2px solid var(--p1);
   transition: border-bottom 0.4s ease;
 }
 
