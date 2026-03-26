@@ -52,9 +52,26 @@ body {
   width: 30px;
 }
 
+.bicicleta-img {
+  display: grid;
+}
+
 .bicicleta-img img {
   height: 100%;
   border-radius: 4px;
+  grid-area: 1/1;
+}
+
+.bicicleta-img span {
+  font-family: poppins, sans-serif;
+  font-size: 18px;
+  color: var(--c0);
+  background: var(--c10);
+  padding: 5px 10px;
+  border-radius: 4px;
+  grid-area: 1/1;
+  place-self: start end;
+  margin-top: 10px;
 }
 
 .bicicleta-bikcraft {
