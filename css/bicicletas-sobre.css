@@ -102,3 +102,34 @@ body {
 .bicicleta-bikcraft button img {
   margin: 10px;
 }
+
+@media (max-width: 900px) {
+  .escolha p  {
+    font-size: 18px;
+    margin-left: 40px
+  }
+  .escolha h1 {
+    font-size: 40px;
+    margin-left: 40px;
+  }
+  .bicicleta-sobre {
+    flex-direction: column;
+    margin: 40px;
+  }
+
+  .bicicleta-bikcraft {
+    padding-left: 0px;
+    border-bottom: 2px solid var(--c12);
+    padding: 10px 0px 40px 0px;
+  }
+
+  .bicicleta-bikcraft h1 {
+    font-size: 32px;
+    margin-top: 10px;
+  }
+
+  .bicicleta-bikcraft button {
+    place-self: start;
+    position: static;
+  }
+}
