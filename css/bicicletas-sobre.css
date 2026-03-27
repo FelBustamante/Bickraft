@@ -13,7 +13,7 @@ body {
   font-family: roboto, sans-serif;
   font-size: 24px;
   color: var(--c5);
-  margin-left: 100px;
+  margin-left: 60px;
   margin-top: 40px;
   padding: 0px;
 } 
@@ -21,7 +21,7 @@ body {
 .escolha h1 {
   font-family: poppins, sans-serif;
   font-size: 64px;
-  margin-left: 100px;
+  margin-left: 60px;
   margin-top: 10px;
   padding-bottom: 40px;
   color: var(--c0);
@@ -124,10 +124,13 @@ body {
   .escolha p  {
     font-size: 18px;
     margin-left: 40px
+    padding: 0px 20px;
   }
   .escolha h1 {
     font-size: 40px;
     margin-left: 40px;
+    padding-left: 20px;
+    padding-bottom: 20px;
   }
   .bicicleta-sobre {
     flex-direction: column;
