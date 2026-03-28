@@ -39,8 +39,40 @@
   color: var(--c6);
 }
 
+.perguntas {
+  max-width: 1160px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 20px;
+}
+
+.perguntas-bg h2 {
+  font-family: poppins, sans-serif;
+  font-size: 48px;
+  color: var(--c11);
+  padding: 60px;
+}
+
+.perguntas-bg span {
+  color: var(--p1);
+  margin: 0px;
+}
+
+.perguntas p {
+  font-family: roboto, sans-serif;
+  font-size: 18px;
+  padding: 20px;
+  color: var(--c11);
+}
+
+.perguntas p span {
+  font-size: 60px;
+  padding: 10px;
+}
+
 @media (max-width: 768px) {
   .vantagens-itens {
     grid-template-columns: 1fr;
   }
 }
+
