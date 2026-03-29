@@ -228,19 +228,30 @@ h2 span {
   p {
     padding: 20px;
   }
+
+  .contato-local {
+    padding: 0px;
+    margin-right: 60px;
+  }
   .local-bg {
     display: grid;
     grid-template-columns: 1fr;
-    padding: 20px;
+    padding: 0 40px;
   }
   .formulario-bg {
     grid-column: 1;
     width: 390px;
     margin-top: 20px;
+    width: 310px;
+    margin-right: 60px;
   }
   .locais-bg {
     display: grid;
     grid-template-columns: 1fr;
+  }
+  .mapa {
+    width: 400px;
+    margin-left: 10px;
   }
 }
 
