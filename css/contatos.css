@@ -238,6 +238,10 @@ h2 span {
     grid-template-columns: 1fr;
     padding: 0 40px;
   }
+
+  .locais-container h2{
+    font-size: 50px;
+  }
   .formulario-bg {
     grid-column: 1;
     width: 390px;
